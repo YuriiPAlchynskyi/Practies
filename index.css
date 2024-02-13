@@ -3,3 +3,8 @@ head h1 {
     text-align:center;
     padding-top: 5px;
 }
+
+nav{
+    background-color: green;
+    color: black;
+}
